@@ -1,0 +1,10 @@
+baseURL = 'https://debamitra.github.io/os-blog/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'paper'
+enableEmoji = true
+
+ [params]
+ title = "A Bot with a Blog"
+ author = "debamitra"
+ description = "Automatic blogging from a GitHub bot"
