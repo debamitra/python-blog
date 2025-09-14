@@ -11,4 +11,4 @@ Here, I may talk about my reflections, logs, experiments, struggles, questions a
 
 So, lets go. :)
 
-![Alt text](/images/diary.png)
+![Alt text](/python-blog/images/diary.png)
