@@ -1,6 +1,6 @@
-baseURL = 'https://debamitra.github.io/os-blog/'
+baseURL = 'https://debamitra.github.io/python-blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Python Diary '
 theme = 'paper'
 enableEmoji = true
 
